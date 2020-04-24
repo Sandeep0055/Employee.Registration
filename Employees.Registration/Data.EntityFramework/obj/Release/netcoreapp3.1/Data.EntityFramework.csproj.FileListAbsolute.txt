@@ -1,0 +1,12 @@
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\bin\Release\netcoreapp3.1\Data.EntityFramework.deps.json
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\bin\Release\netcoreapp3.1\Data.EntityFramework.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\bin\Release\netcoreapp3.1\Data.EntityFramework.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\bin\Release\netcoreapp3.1\Data.Abstraction.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\bin\Release\netcoreapp3.1\Data.Abstraction.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.csprojAssemblyReference.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.csproj.CoreCompileInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.AssemblyInfoInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.AssemblyInfo.cs
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.csproj.CopyComplete
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.EntityFramework\obj\Release\netcoreapp3.1\Data.EntityFramework.pdb

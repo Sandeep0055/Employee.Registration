@@ -1,0 +1,49 @@
+<!-- START cards box-->
+<div class="col-lg-12">
+<br>
+
+  <div class="col-lg-12">
+    <div class="col-lg-10">
+      <div class="col-lg-4">
+        <input id="chk-guest" type="text" class="form-control search-box-admin" [(ngModel)]="searchText"
+          (input)="filterItem(searchText)" placeholder="Search" name="checkout-use-bill-address" />
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <button class="btn btn-primary float-right" (click)="exportexcel()" type="button">Export To Excel</button>
+    </div>
+  </div>
+  <div class="col-lg-12">
+    <div class="table-responsive">
+      <br>
+      <p *ngIf="filteredItems.length ==0" style="color: red;font-size: 15px;">Record Not Mach {{searchText }}</p>
+      <table class="table" id="employee-table" *ngIf="filteredItems.length > 0">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Date Of Birth</th>
+            <th>Qualification</th>
+            <th>Experience</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
+            <th>Designation</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          <tr mdbTableCol *ngFor="let item of filteredItems; let i=index">
+            <td>{{i+1}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.dateOfBirth | date: 'dd/MM/yyyy'}}</td>
+            <td>{{item.qualification}}</td>
+            <td>{{item.experience}}</td>
+            <td>{{item.joiningDate | date: 'dd/MM/yyyy'}}</td>
+            <td>{{item.salary}}</td>
+            <td>{{item.designation}}</td>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

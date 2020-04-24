@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees.Registration", "Employees.Registration\Employees.Registration.csproj", "{B584BA9B-012F-4248-812B-CC5B2380B86E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Abstraction", "Data.Abstraction\Data.Abstraction.csproj", "{7CE98575-7E74-45BC-A47C-BBAC4ACB6105}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.EntityFramework", "Data.EntityFramework\Data.EntityFramework.csproj", "{3C13C776-5963-4F2F-AA70-7DCC9D41788B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Sqlite", "Data.Sqlite\Data.Sqlite.csproj", "{E53A5C73-BCA1-4DE9-B44F-4179A0DAA257}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{24BF287F-E9F8-4451-93A5-D242D8636715}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Sqlite.DbGenerator", "Systech.Data.Sqlite.DbGenerator\Data.Sqlite.DbGenerator.csproj", "{D043FC1D-048C-46B0-91FA-C94A008031FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B584BA9B-012F-4248-812B-CC5B2380B86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B584BA9B-012F-4248-812B-CC5B2380B86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B584BA9B-012F-4248-812B-CC5B2380B86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B584BA9B-012F-4248-812B-CC5B2380B86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE98575-7E74-45BC-A47C-BBAC4ACB6105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE98575-7E74-45BC-A47C-BBAC4ACB6105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE98575-7E74-45BC-A47C-BBAC4ACB6105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE98575-7E74-45BC-A47C-BBAC4ACB6105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C13C776-5963-4F2F-AA70-7DCC9D41788B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C13C776-5963-4F2F-AA70-7DCC9D41788B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C13C776-5963-4F2F-AA70-7DCC9D41788B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C13C776-5963-4F2F-AA70-7DCC9D41788B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53A5C73-BCA1-4DE9-B44F-4179A0DAA257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53A5C73-BCA1-4DE9-B44F-4179A0DAA257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53A5C73-BCA1-4DE9-B44F-4179A0DAA257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53A5C73-BCA1-4DE9-B44F-4179A0DAA257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BF287F-E9F8-4451-93A5-D242D8636715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BF287F-E9F8-4451-93A5-D242D8636715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BF287F-E9F8-4451-93A5-D242D8636715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BF287F-E9F8-4451-93A5-D242D8636715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D043FC1D-048C-46B0-91FA-C94A008031FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D043FC1D-048C-46B0-91FA-C94A008031FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D043FC1D-048C-46B0-91FA-C94A008031FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D043FC1D-048C-46B0-91FA-C94A008031FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284A2D47-BA81-4206-B090-D60D88541D66}
+	EndGlobalSection
+EndGlobal

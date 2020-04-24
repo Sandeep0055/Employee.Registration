@@ -1,0 +1,8 @@
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\obj\Release\netcoreapp3.1\Data.Abstraction.csproj.CoreCompileInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\obj\Release\netcoreapp3.1\Data.Abstraction.AssemblyInfoInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\obj\Release\netcoreapp3.1\Data.Abstraction.AssemblyInfo.cs
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\bin\Release\netcoreapp3.1\Data.Abstraction.deps.json
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\bin\Release\netcoreapp3.1\Data.Abstraction.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\bin\Release\netcoreapp3.1\Data.Abstraction.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\obj\Release\netcoreapp3.1\Data.Abstraction.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Abstraction\obj\Release\netcoreapp3.1\Data.Abstraction.pdb

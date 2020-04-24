@@ -1,0 +1,14 @@
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.Sqlite.deps.json
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.Sqlite.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.Sqlite.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.Abstraction.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.EntityFramework.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.EntityFramework.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\bin\Debug\netcoreapp3.1\Data.Abstraction.pdb
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.csprojAssemblyReference.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.csproj.CoreCompileInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.AssemblyInfoInputs.cache
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.AssemblyInfo.cs
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.csproj.CopyComplete
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.dll
+E:\Sandeep More\Machine Test\Employees\Employees.Registration\Data.Sqlite\obj\Debug\netcoreapp3.1\Data.Sqlite.pdb
